@@ -2,9 +2,10 @@
 simple flashcard app in C++.
 
 ### features/bugs to add/fix:
+- [-] add program downloadable w/o source files, .exe
+- [ ] add .ico file for .exe file
 - [ ] when spaces in input, review mode bugs out
 - [ ] add gui
-- [ ] add program downloadable w/o source files, .exe
 - [ ] add support for reverse cards/different types of cards like anki
 - [ ] add fronts and backs of all cards into .txt file on user's computer
 - [ ] add support for spaced repetition based on AI analysis of cards
