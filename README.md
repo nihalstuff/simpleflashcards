@@ -1,7 +1,7 @@
 # simpleflashcards
 simple flashcard app in C++.
 
-###features/bugs to add/fix:
+### features/bugs to add/fix:
 - [ ] when spaces in input, review mode bugs out
 - [ ] add gui
 - [ ] add program downloadable w/o source files, .exe
@@ -9,7 +9,7 @@ simple flashcard app in C++.
 - [ ] add fronts and backs of all cards into .txt file on user's computer
 - [ ] add support for spaced repetition based on AI analysis of cards
 
-###how to use:
+### how to use:
 1. add cards with the format front|back and pressing enter
 2. type end and press enter to quit adding cards and enter review
 3. you will be asked for the back side of the card. type your answer and press enter
