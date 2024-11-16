@@ -2,7 +2,7 @@
 simple flashcard app in C++.
 
 ### features/bugs to add/fix:
-- [-] add program downloadable w/o source files, .exe
+- [x] add program downloadable w/o source files, .exe
 - [ ] add .ico file for .exe file
 - [ ] when spaces in input, review mode bugs out
 - [ ] add gui
